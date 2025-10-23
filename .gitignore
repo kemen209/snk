@@ -1,0 +1,5 @@
+venv
+snk_scenario/output
+**/__pycache__
+snk_visualizer/data/output
+snk_visualizer/Cesium
